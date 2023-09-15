@@ -4,16 +4,24 @@ const NavList:React.FC = () => {
   return (
     <ul className='nav__list'>
       <li>
+        <a href='#n'>
         Home
+        </a>
       </li>
       <li>
-        Projects
+      <a href='#n'>
+        Home
+        </a>
       </li>
       <li>
-        Education
+      <a href='#n'>
+        Home
+        </a>
       </li>
       <li>
-        About
+      <a href='#n'>
+        Home
+        </a>
       </li>
     </ul>
   )
